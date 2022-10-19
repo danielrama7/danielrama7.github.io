@@ -3,56 +3,56 @@
     {
       "placeName": "Merlion",
       "description": "",
-      "latitude": "1.286920",
-      "longitude": "103.854570"
+      "latitude": 1.286920,
+      "longitude": 103.854570
     },
     {
       "placeName": "Asian Civilisations Museum",
       "description": "",
-      "latitude": "1.287466",
-      "longitude": "103.851424"
+      "latitude": 1.287466,
+      "longitude": 103.851424
     },
     {
       "placeName": "Clarke Quay",
       "description": "",
-      "latitude": "1.290555",
-      "longitude": "103.846188"
+      "latitude": 1.290555,
+      "longitude": 103.846188
     },
     {
       "placeName": "Fort Canning Park",
       "description": "",
-      "latitude": "1.295526",
-      "longitude": "103.845331"
+      "latitude": 1.295526,
+      "longitude": 103.845331
     },
     {
       "placeName": "Orchard Road",
       "description": "",
-      "latitude": "1.302279",
-      "longitude": "103.837399"
+      "latitude": 1.302279,
+      "longitude": 103.837399
     },
     {
       "placeName": "Singapore Flyer",
       "description": "",
-      "latitude": "1.289332",
-      "longitude": "103.863152"
+      "latitude": 1.289332,
+      "longitude": 103.863152
     },
     {
       "placeName": "Marina Bay Sands",
       "description": "",
-      "latitude": "1.283099",
-      "longitude": "103.860295"
+      "latitude": 1.283099,
+      "longitude": 103.860295
     },
     {
       "placeName": "Gardens By The Bay",
       "description": "",
-      "latitude": "1.281790",
-      "longitude": "103.863954"
+      "latitude": 1.281790,
+      "longitude": 103.863954
     },
     {
       "placeName": "Chinatown",
       "description": "",
-      "latitude": "1.284193",
-      "longitude": "103.843362"
+      "latitude": 1.284193,
+      "longitude": 103.843362
     }
   ]
 }
